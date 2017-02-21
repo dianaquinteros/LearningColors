@@ -1,6 +1,7 @@
 # Practice
-My very first project...
+My very first project... HTML/CSS/JS
 
-Color for Kids
+Colors for Kids
+
 Web that shows some colors when you press any key...
 
