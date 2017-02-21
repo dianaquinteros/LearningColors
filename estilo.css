@@ -1,0 +1,21 @@
+h1 {
+	color: #BF3F77;
+	text-shadow: 4px 5px #FFFFFF;
+	font-family: "Calibri";
+	font-size: 7em;
+	margin: 0.1em;
+	text-align: center;
+}
+
+p {
+	color: purple;
+	text-shadow: 3px 3px white;
+	font-family: "Verdana";
+	font-size: 6em;
+	text-align: center;
+	margin: 0em;
+}
+
+body {
+	background-image: url("media/imagen2.jpg");
+}
