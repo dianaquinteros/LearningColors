@@ -1,0 +1,6 @@
+# Practice
+My very first project...
+
+Color for Kids
+Web that shows some colors when you press any key...
+
